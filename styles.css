@@ -124,11 +124,17 @@ button {
 
 @media screen and (max-width: 875px) {
     .container-itens {
-        width: 50%;
+        width: 75%;
         height: auto;
+        margin: 0;
+        padding: 0;
     }
 
     .conteiner-imagens {
         display: none;
+    }
+
+    .container-form {
+        
     }
 }
