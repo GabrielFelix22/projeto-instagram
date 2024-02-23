@@ -135,6 +135,6 @@ button {
     }
 
     .container-form {
-        
+        display: block;
     }
 }
